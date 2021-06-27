@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Experimental Robotics Lab Assignment 1 documentation build configuration file, created by
-# sphinx-quickstart on Mon May 26 01:59:48 2021.
+# sphinx-quickstart on Wed May 26 01:59:48 2021.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
